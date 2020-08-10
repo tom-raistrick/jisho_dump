@@ -6,7 +6,8 @@ Jisho.org is a Japanese-English dictionary built using data collated from many C
 
 
 `This data is largely sourced from the JMdict, Kanjidic2, JMnedict, and Radkfile dictionary files, which are the property of the Electronic Dictionary Research and Development Group and subject to their `[license](http://www.edrdg.org/edrdg/licence.html)`.`  
-`Additionally, example sentences come from the `[Tatoeba](https://tatoeba.org/eng/)` project and are licensed under Creative Commons `[BY](https://creativecommons.org/licenses/by/2.0/legalcode)`.`  
+`Additionally:`  
+`Example sentences come from the `[Tatoeba](https://tatoeba.org/eng/)` project and are licensed under Creative Commons `[BY](https://creativecommons.org/licenses/by/2.0/legalcode)`.`  
 `Kanji stroke diagrams are based on data from `[KanjiVG](http://kanjivg.tagaini.net/)`, ©2009-2012 Ulrich Apel, and licensed under Creative Commons `[BY-SA](https://creativecommons.org/licenses/by-sa/3.0/legalcode)`.`  
 `Wikipedia data comes from the `[DBpedia](https://wiki.dbpedia.org/about)` project and is dual-licensed under Creative Commons `[BY-SA](https://creativecommons.org/licenses/by-sa/3.0/legalcode)` and GNU `[FDL](https://www.gnu.org/licenses/fdl-1.3.en.html)`.`  
 `JLPT data comes from Jonathan Waller‘s `[JLPT Resources page](http://www.tanos.co.uk/jlpt/)`, licensed under Creative Commons `[BY-SA](https://creativecommons.org/licenses/by-sa/3.0/legalcode)`.` 
