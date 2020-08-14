@@ -2,7 +2,7 @@
 
 `[WORK IN PROGRESS]`
 
-Jisho.org is a Japanese-English dictionary built using data collated from many Creative Commons BY- or BY-SA-licensed language projects.  This repository is an effort to bring all that data together in a form that can be readily used in other language projects.  
+Jisho.org is a popular Japanese-English dictionary built using data collated from many Creative Commons BY- or BY-SA-licensed language projects.  This repository is an effort to bring all that data together in a form that can be readily used in other language projects.  
 
 Kanji Data:  
 JSON format, containing the following information (where applicable) for each of the 13,108 kanji defined in the Japanese Industrial Standards: character, character variants, stroke count, radical, radical variants, radical meaning, parts, English meanings, kun'yomi readings, on'yomi readings, nanori readings, grade at which the kanji is taught in Japan (for the 2,186 Jouyou kanji only), JLPT level (for the 2,216 kanji examined in the JLPT only), frequency of use (for the 2,500 most common kanji only), kun'yomi reading compound words, and on'yomi reading compound words.  Additionally, corresponding SVG files describe stroke order for each kanji.  
